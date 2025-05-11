@@ -1,5 +1,5 @@
-- It's Ramisa
-- Here to collab and practice too
+- It's Ramisa.
+- Here to collab and showcase my own projects too.
 
 <!---
 nramisa/nramisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
