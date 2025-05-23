@@ -1,7 +1,5 @@
-- It's Ramisa.
-- Here to collab and showcase my own projects too.
-
-<!---
-nramisa/nramisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! This is Ramisa Nawar   
+🎓 B.Sc. Computer Science & Engineering at Independent University, Bangladesh (IUB) 
+🔹 Passion: all things tech & coding  
+🔸 Experienced: HTML/CSS, JavaScript, React, Node.js, Python  
+🔹 Learning: C++, AI Algorithms, Neural Nets
