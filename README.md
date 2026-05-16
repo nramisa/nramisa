@@ -1,5 +1,5 @@
 # Hi! This is Ramisa Nawar
-🎓 B.Sc. Computer Science & Engineering at Independent University, Bangladesh (IUB)<br>🔸 Experienced: HTML/CSS, JavaScript, React, Node.js, PHP, Python<br>🔹 Learning: C++, AI Algorithms, Neural Nets
+🎓 B.Sc. Computer Science & Engineering at Independent University, Bangladesh (IUB)<br>🔸 Experienced: PyTorch, TensorFlow, JavaScript, React, Node.js, PHP, Python<br>🔹 Learning: C++, AI Algorithms
 
 
 ## Socials:
